@@ -1,0 +1,16 @@
+{
+  "name": "machinelearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SEYI_JS",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.0.1",
+    "csvtojson": "^2.0.10",
+    "ml-regression": "^5.0.0"
+  }
+}
